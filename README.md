@@ -27,3 +27,7 @@ Overview: Transformed an unstructured, messy real estate sales dataset into a cl
 * **Tools:** Tableau Public, SQL
 * **Live Link:** [Interactive Dashboard](https://public.tableau.com/views/Classeur1_17872357427680/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 * **Summary:** Built an interactive executive dashboard displaying worldwide COVID-19 KPIs, continental death breakdowns, geospatial infection heatmaps.
+
+
+## 🖼️ Dashboard Preview
+![COVID-19 Dashboard Preview](Covid_dashboards.png)
