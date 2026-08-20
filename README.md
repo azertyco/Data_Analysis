@@ -30,4 +30,4 @@ Overview: Transformed an unstructured, messy real estate sales dataset into a cl
 
 
 ## 🖼️ Dashboard Preview
-![COVID-19 Dashboard Preview](Covid_dashboards.png)
+![COVID-19 Dashboard Preview](./visualization_Covid/Covid_dashboards.png)
