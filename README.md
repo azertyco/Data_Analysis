@@ -23,7 +23,7 @@ Key Skills: Data Transformation, Missing Address Imputation via Self-Joins, Stri
 
 Overview: Transformed an unstructured, messy real estate sales dataset into a clean, analysis-ready table by resolving null values, standardizing mixed boolean flags, splitting composite address strings, and eliminating duplicate transaction records.
 
-### 4. [COVID-19 Global Impact Dashboard (Tableau)](./04-COVID-Tableau-Dashboard/)
+### 4. COVID-19 Global Impact Dashboard (Tableau)
 * **Tools:** Tableau Public, SQL
 * **Live Link:** [Interactive Dashboard](https://public.tableau.com/views/Classeur1_17872357427680/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 * **Summary:** Built an interactive executive dashboard displaying worldwide COVID-19 KPIs, continental death breakdowns, geospatial infection heatmaps.
